@@ -14,6 +14,9 @@ dependencies:
   - jupyter_bokeh
   - holoviews
   - hvplot
+  # -- ooi phsen test notebook --
+  - beautifulsoup4
+  - h5netcdf
   # -- others --
   - pip:
     - das4whales@git+https://github.com/DAS4Whales/DAS4Whales@ooi-2025
